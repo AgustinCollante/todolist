@@ -1,0 +1,14 @@
+.contentTodo{
+    display: flex;
+   
+}
+
+.contentInput{
+    background-color: white;
+    width: 80%;
+    margin-bottom: 5px;
+}
+
+.btn-danger{
+    margin-left: 5px;
+}
